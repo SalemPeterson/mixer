@@ -1,0 +1,15 @@
+.ground{
+  color:blue;
+  background-color: aqua;
+  border: 1px solid;
+  border-radius: 2px;
+  width: 25%;
+  padding: 12px;
+}
+
+.ground-button{
+  border-radius: 16px;
+  background-color: purple;
+  color: white;
+  margin-top: 4px;
+}
