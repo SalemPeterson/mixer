@@ -17,6 +17,8 @@ comes with a LSP for Vim users.
 
 Run `npx nx serve mixer` to start the development server. Happy coding!
 
+or `npx nx run mixer:serve` 🥇
+
 ## Build for production
 
 Run `npx nx build mixer` to build the application. The build artifacts are stored in the output directory (e.g. `dist/` or `build/`), ready to be deployed.
